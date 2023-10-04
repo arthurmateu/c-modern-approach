@@ -1,0 +1,3 @@
+/*
+    The function will print the binary form of the decimal number entered
+*/
